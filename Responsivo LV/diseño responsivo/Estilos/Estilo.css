@@ -1,0 +1,73 @@
+﻿body {
+    background-image: url('../imagenes/Fondo L.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px 800px;
+}
+.cabecera {
+    height: 60px;
+    background-color: #955f20;
+    border: 1px solid #999999;
+}
+.navbar {
+    background-color: #c69b7c !important;
+}
+.container nav a{
+    color: black !important;
+    font-size: 14px;
+}
+.navbar-toggler{
+    background-color: white;
+}
+
+.container nav a:hover:not(.botones) {
+    background-color: burlywood;
+    border-radius: 10px;
+}
+.section article footer p{
+    font-size: 12px;
+}
+.secciones{
+    background: #FFFBCC;
+    border: 1px solid #999999;
+}
+aside{
+    color: black;
+    padding: 20px;
+    background-color: #F5E6D6;
+}
+h1{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+figcaption{
+    font: italic 14px verdana, sans-serif;
+}
+.pie {
+    border: 2px solid #999999;
+    height: 35px;
+    font-size: 12px;
+    background-color:#c69b7c ;
+    height:40px;
+}
+#consul {
+    height: 220px;
+    background: burlywood;
+    color:white;
+}
+#aviso {
+    background-color: #c69b7c;
+}
+
+#fotos{
+    height:3600px;
+    width:900px;
+}
+

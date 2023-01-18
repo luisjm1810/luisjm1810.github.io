@@ -1,0 +1,168 @@
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\diseño responsivo.dll.config
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\diseño responsivo.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\diseño responsivo.pdb
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csc.exe
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csc.exe.config
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csc.rsp
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csi.exe
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csi.exe.config
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csi.rsp
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.AppContext.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Collections.Immutable.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Console.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.Compression.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.FileSystem.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.Pipes.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Reflection.Metadata.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.AccessControl.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Claims.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Principal.Windows.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.ValueTuple.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.XPath.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\vbc.exe
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\vbc.exe.config
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\vbc.rsp
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\VBCSCompiler.exe
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\VBCSCompiler.exe.config
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.csproj.AssemblyReference.cache
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.csproj.CoreCompileInputs.cache
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.csproj.CopyComplete
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.dll
+D:\proyectos\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.pdb
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\diseño responsivo.dll.config
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\diseño responsivo.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\diseño responsivo.pdb
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csc.exe
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csi.exe
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Claims.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.dll
+C:\Users\USUARIO\Downloads\DiseñoResponsive\diseño responsivo\diseño responsivo\obj\Debug\diseño responsivo.pdb
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\diseño responsivo.dll.config
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\diseño responsivo.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\diseño responsivo.pdb
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\csc.exe
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\csc.exe.config
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\csc.rsp
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\csi.exe
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\csi.exe.config
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\csi.rsp
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.AppContext.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Collections.Immutable.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Console.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.IO.Compression.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.IO.FileSystem.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.IO.Pipes.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Reflection.Metadata.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.AccessControl.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.Claims.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.ValueTuple.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Xml.XPath.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\vbc.exe
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\vbc.exe.config
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\vbc.rsp
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\VBCSCompiler.exe
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\roslyn\VBCSCompiler.exe.config
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\obj\Debug\diseño responsivo.csproj.AssemblyReference.cache
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\obj\Debug\diseño responsivo.csproj.CoreCompileInputs.cache
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\obj\Debug\diseño responsivo.csproj.CopyComplete
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\obj\Debug\diseño responsivo.dll
+C:\primaria Leona vicario\Responsivo LV\diseño responsivo\obj\Debug\diseño responsivo.pdb
